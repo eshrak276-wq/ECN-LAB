@@ -27,7 +27,7 @@
 
 
 OBSERVATION :
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/1201669c-ddc3-4a52-8278-dca0c73008b0" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1201669c-ddc3-4a52-8278-dca0c73008b0" />
 
 
 CALCULATION :
