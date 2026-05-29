@@ -24,8 +24,20 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="200" height="300" alt="WhatsApp Image 2026-05-29 at 9 15 52 AM" src="https://github.com/user-attachments/assets/912bca80-7e1b-45f8-86b9-5e078137e214" />
 
+OBSERVATION :
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ec5e94e6-da39-44e3-ac3b-a7afedc79843" />
 
+CALCULATION :
+
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/6504fcae-e643-459c-9389-3ad3b846c01d" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/c7daa0b3-7641-4941-8ece-9c42a5c65ff7" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f4dd36b2-8c3b-4f7a-8333-12173e2b471f" />
+
+MARKS SPLIT UP : 
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/13910ca4-1dfe-4294-9301-e87cade7f8b4" />
 
 
 
