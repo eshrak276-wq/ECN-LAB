@@ -23,25 +23,26 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/699ffa0d-8521-4c51-a07b-0ea9faaaea54" />
-
-
-OBSERVATION :
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1201669c-ddc3-4a52-8278-dca0c73008b0" />
-
-
-CALCULATION :
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c6b1ab48-ded6-47db-995e-108d71896c7a" />
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/f65da189-1c3b-4dbe-8cb7-4affe1be998a" />
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e36a5f17-53e4-4e2e-b0d6-77a13d92645b" />
+<img width="842" height="1352" alt="image" src="https://github.com/user-attachments/assets/c385dcb9-51ad-4a8a-919b-07776d1a5877" />
 
 
 
+**CALCULATION :**
+<img width="900" height="1368" alt="image" src="https://github.com/user-attachments/assets/a449cd48-a051-4f91-960e-8d8cc7095562" />
+<img width="900" height="1252" alt="image" src="https://github.com/user-attachments/assets/008d52ac-938c-4ee9-bd17-8b3671766aaa" />
+<img width="900" height="1286" alt="image" src="https://github.com/user-attachments/assets/668792f9-fd72-46e4-8792-55daa40e38e1" />
 
-MARKS SPLIT UP :
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/36dcb5ad-23b9-4598-965b-c96d4cc2ea06" />
+
+**TABULATION :**
+
+<img width="881" height="625" alt="image" src="https://github.com/user-attachments/assets/4729284b-5595-4059-8c26-2ca03b1be294" />
 
 
+
+**MARKS SPLIT UP :**
+
+
+<img width="772" height="1223" alt="image" src="https://github.com/user-attachments/assets/579ffbd6-0765-41eb-95a4-cdc76bdad6dd" />
 
 
 
